@@ -1,0 +1,7 @@
+{
+  "name": "scraper",
+  "dependencies": {
+    "xml2js": "0.4.4"
+  },
+  "private": "true"
+}
