@@ -1,0 +1,5 @@
+# Don't include the parser output
+parser/data
+
+# Don't include vim temp files
+*.swp
